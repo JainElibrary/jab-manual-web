@@ -21,22 +21,25 @@ title: "A.1. Jain Prayers"
 
 **Meaning:**
 I bow to all Arihant, I bow to all Siddha, I bow to all the Ächärya, I bow to the Upädhyäy, I bow to all the Sädhu and Sädhvi.
-
-To these five types of great souls, I offer my prayers. May such prayer help diminish all my negative vibrations and sins. Amongst all of the auspicious benedictions, offering this prayer is the foremost.
+> To these five types of great souls, I offer my prayers. May such prayer help diminish all my negative vibrations and sins. Amongst all of the auspicious benedictions, offering this prayer is the foremost.
 
 ### A.1.2. Mängalik - Chattäri Mangalam : (Divine Refuge Prayer)
 
-चत्तारि मंगलं, अरिहंता मंगलं, सिद्धा मंगलं, साहू मंगलं, केवलिपण्णत्तो धम्मो मंगलं .1.
-Chattäri mangalam, Arihantä mangalam, Siddhä mangalam, Sähu mangalam, Kevali pannatto dhammo mangalam .1.
+> चत्तारि मंगलं, अरिहंता मंगलं, 
+सिद्धा मंगलं, साहू मंगलं, 
+केवलिपण्णत्तो धम्मो मंगलं .1.
+> Chattäri mangalam, Arihantä mangalam, Siddhä mangalam, Sähu mangalam, Kevali pannatto dhammo mangalam .1.
+`There are four auspicious entities in the universe. Arihants are auspicious. Siddhas are auspicious. Sädhus and Sädhvis are auspicious. The religion explained by the omniscient is auspicious.`
 
-There are four auspicious entities in the universe. Arihants are auspicious. Siddhas are auspicious. Sädhus and Sädhvis are auspicious. The religion explained by the omniscient is auspicious.
-
-चत्तारि लोगुत्तमा, अरिहंता लोगुत्तमा, सिद्धा लोगुत्तमा, साहू लोगुत्तमा, केवलिपण्णत्तो धम्मो लोगुत्त्मो .2.
+चत्तारि लोगुत्तमा, अरिहंता लोगुत्तमा, 
+सिद्धा लोगुत्तमा, साहू लोगुत्तमा, 
+केवलिपण्णत्तो धम्मो लोगुत्त्मो .2.
 Chattäri loguttamä, Arihantä loguttamä, Siddhä loguttamä, Sähu loguttamä, Kevali pannatto dhammo loguttamo .2.
+: There are four supreme entities in the universe. Arihants are supreme. Siddhas are supreme. Sädhus and Sädhvis are supreme. The religion explained by the omniscient is supreme.
 
-There are four supreme entities in the universe. Arihants are supreme. Siddhas are supreme. Sädhus and Sädhvis are supreme. The religion explained by the omniscient is supreme.
-
-चत्तारि सरणं पवज्जामि, अरिहंते सरणं पवज्जामि, सिद्धे सरणं पवज्जामि, साहू सरणं पवज्जामि, केवलि पण्णत्तं धम्मं सरणं पवज्जामि।।
+चत्तारि सरणं पवज्जामि, अरिहंते सरणं पवज्जामि, 
+सिद्धे सरणं पवज्जामि, साहू सरणं पवज्जामि, 
+केवलि पण्णत्तं धम्मं सरणं पवज्जामि।।
 Chattäri saranam pavajjämi, Arihante saranam pavajjämi, Siddhe saranam pavajjämi, Sähu saranam pavajjämi, Kevali pannattam dhammam saranam pavajjämi ||
 
 I take refuge in the four auspicious and supreme entities of perfected souls, liberated souls, ascetics, and the religion expounded by Tirthankar Kevalis. These are expounded by self-control, non-violence, and compassion.
@@ -45,15 +48,17 @@ I take refuge in the four auspicious and supreme entities of perfected souls, li
 
 By means of this sutra, we ask for forgiveness from all living beings of the universe, and we also grant forgiveness to all living beings of the universe. In this way a relationship of mutual forgiveness and friendship is developed among all living beings. This is the true essence of the Jain religion.
 
-खामेमि सव्व जीवे, सव्वेजीवा खमंतुमे। मित्ती मे सव्व भूएसु, वेरम् मज्झ न केणइ।।.1.
-Khämemi savva jive, savve jivä khamantu me, Mitti me savva bhuyesu, veram majjha na kenai .1.
+खामेमि सव्व जीवे, सव्वेजीवा खमंतुमे।
+मित्ती मे सव्व भूएसु, वेरम् मज्झ न केणइ।।
+Khämemi savva jive, savve jivä khamantu me, Mitti me savva bhuyesu, veram majjha na kenai.
 
 I forgive all living beings, may all living beings forgive me. My friendship is with all living beings, my enmity is nonexistent.
 
 ### A.1.4. Upsargäh Kshayam Yänti: (Reflection on Universal Peace)
 
-उपसर्गाः क्षयं यान्ति, छिद्यन्ते विघ्नवल्लयः। मनः प्रसन्न तामेति, पूज्यमाने जिनेश्वरे।। .1.
-Upasargäh kshayam yänti, chidyante vighna-vallayah. Manah prasannatämeti, pujyamäne jineshvare .1.
+उपसर्गाः क्षयं यान्ति, छिद्यन्ते विघ्नवल्लयः।
+मनः प्रसन्न तामेति, पूज्यमाने जिनेश्वरे।।
+Upasargäh kshayam yänti, chidyante vighna-vallayah. Manah prasannatämeti, pujyamäne jineshvare.
 
 All problems get resolved; All obstacles get removed. The heart becomes full of joy, for those who get in touch with the inner higher self.
 
