@@ -1,0 +1,8 @@
+.glossary-term {
+  border-bottom: 1px dotted #2c3e50;
+  cursor: help;
+  color: #2980b9;
+  font-weight: 500;
+}
+
+/* Optional: Make the native tooltip stay longer or use a library like Tippy.js for better looks */

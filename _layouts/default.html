@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | JAB Manual 2024</title>
+    
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 2rem; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 0.5rem; }
+        
+        /* GLOSSARY STYLING */
+        .glossary-term {
+            border-bottom: 1px dotted #e67e22; /* Jain orange-ish tint */
+            cursor: help;
+            color: #d35400;
+            font-weight: 500;
+            position: relative;
+        }
+        
+        /* Navigation styling */
+        nav { margin-bottom: 2rem; background: #f8f9fa; padding: 1rem; border-radius: 5px; }
+        nav a { margin-right: 15px; text-decoration: none; color: #2980b9; }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="/">🏠 Home</a>
+        <a href="/index.md">📚 Table of Contents</a>
+    </nav>
+
+    <main id="manual-content">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+    </main>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // 1. Point this to the correct location of your glossary.json
+            fetch('/glossary.json')
+                .then(response => response.json())
+                .then(glossary => {
+                    const container = document.getElementById('manual-content');
+                    let html = container.innerHTML;
+
+                    // Sort terms by length (longest first) to prevent partial matching 
+                    // e.g., prevents "Jiva" from breaking "Samsari Jiva"
+                    const terms = Object.keys(glossary).sort((a, b) => b.length - a.length);
+
+                    terms.forEach(term => {
+                        // Regex: matches the word globally, case-insensitive, ensuring it's not already inside a tag
+                        const regex = new RegExp(`\\b(${term})\\b(?![^<]*>)`, 'gi');
+                        html = html.replace(regex, `<span class="glossary-term" title="${glossary[term]}">$1</span>`);
+                    });
+
+                    container.innerHTML = html;
+                })
+                .catch(err => console.error("Glossary failed to load:", err));
+        });
+    </script>
+
+</body>
+</html>
